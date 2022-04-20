@@ -1,3 +1,7 @@
+Olaf van den Berg
+UndertokerI
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
